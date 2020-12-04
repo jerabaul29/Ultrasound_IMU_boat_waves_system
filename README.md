@@ -1,6 +1,6 @@
 # Ultrasound_IMU_boat_waves_system
 
-Code for assembling an Ultrasonic Gauge + Inertial Motion Unit system for measurements of waves from boats
+Code for assembling an Ultrasonic Gauge + Inertial Motion Unit system for measurements of waves from boats.
 
 The IMU used for ship motion correction is the VN100 from Vectornav. It is logged directly by the computer using the code in the **VN100** folder.
 
@@ -12,3 +12,9 @@ Code for extracting the waves properties from the UG and IMU readings is availab
 
 For any question, open an issue directly on this repo.
 
+If you find this material useful, and / or use it in your reseach, please consider citing our paper:
+
+Løken, T. K., Rabault, J., Jensen, A., Sutherland, G., Christensen, K. H., & Müller, M. (2020). Wave measurements from ship mounted sensors in the Arctic marginal ice zone. Cold Regions Science and Technology, 103207.
+
+Publisher version: https://www.sciencedirect.com/science/article/pii/S0165232X20304547 .
+Postprint: https://www.researchgate.net/publication/337324692_Wave_measurements_from_ship_mounted_sensors_in_the_Arctic_marginal_ice_zone .
