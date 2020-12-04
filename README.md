@@ -14,7 +14,12 @@ For any question, open an issue directly on this repo.
 
 If you find this material useful, and / or use it in your reseach, please consider citing our paper:
 
-Løken, T. K., Rabault, J., Jensen, A., Sutherland, G., Christensen, K. H., & Müller, M. (2020). Wave measurements from ship mounted sensors in the Arctic marginal ice zone. Cold Regions Science and Technology, 103207.
+```
+Løken, T. K., Rabault, J., Jensen, A., Sutherland, G., Christensen, K. H., & Müller, M. (2020).
+Wave measurements from ship mounted sensors in the Arctic marginal ice zone.
+Cold Regions Science and Technology, 103207.
+```
 
 Publisher version: https://www.sciencedirect.com/science/article/pii/S0165232X20304547 .
-Postprint: https://www.researchgate.net/publication/337324692_Wave_measurements_from_ship_mounted_sensors_in_the_Arctic_marginal_ice_zone .
+
+Preprint: https://www.researchgate.net/publication/337324692_Wave_measurements_from_ship_mounted_sensors_in_the_Arctic_marginal_ice_zone .
